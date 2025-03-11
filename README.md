@@ -14,13 +14,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Next.js + TypeScript Projects**  
+ 🔭 I’m currently working on **Python and Java Projects**  
  
- 🌱 I’m currently learning **Cloud Computing, Docker, and GraphQL**  
+ 🌱 I’m currently learning **Data Structures & Algorithms, Flask, and OOP Concepts**  
 
- 💬 Ask me about **React, Next.js, Node.js, MongoDB... or anything [here](https://github.com/singhh-rishikesh/singhh-rishikesh/issues)**  
+ 💬 Ask me about **Python, Java, HTML & CSS... or anything [here](https://github.com/singhh-rishikesh/singhh-rishikesh/issues)**  
 
- ⚡ Fun fact **I love Open Source and Problem Solving!**  
+ ⚡ Fun fact **I love coding and problem-solving!**  
 
 </div>
 
@@ -45,7 +45,7 @@
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,java,git,github,vscode" />
 </div>
 
 ---
